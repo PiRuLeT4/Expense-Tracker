@@ -7,3 +7,5 @@ python expenses.py:
 - `delete --id`
 - `list`
 - `summary`
+
+Url to expense-tracker project: https://roadmap.sh/projects/expense-tracker
