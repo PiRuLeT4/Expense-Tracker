@@ -1,0 +1,26 @@
+[
+    {
+        "descr": "uber",
+        "amount": "15",
+        "ID": 1,
+        "Date": null
+    },
+    {
+        "descr": "barbacoa con los colegas",
+        "amount": "30",
+        "ID": 2,
+        "Date": null
+    },
+    {
+        "descr": "dinner",
+        "amount": "30",
+        "ID": 3,
+        "Date": "2025-06-07"
+    },
+    {
+        "descr": "lunch",
+        "amount": "20",
+        "ID": 4,
+        "Date": "2025-07-07"
+    }
+]
